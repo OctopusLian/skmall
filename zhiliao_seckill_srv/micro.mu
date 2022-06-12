@@ -1,1 +1,0 @@
-service zhiliao_seckill_srv
